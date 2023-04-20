@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @CesarVales
 - 👀 I’m interested in building cool apps 
-- 🌱 I’m currently learning Android Development
 - 📫 How to reach me linkedin.com/in/cesarvales/
 
 <!---
